@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'trabalho docker'
+copyright = '2024, Marcos'
+author = 'Marcos'
 
 release = '0.1'
 version = '0.1.0'
